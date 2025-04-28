@@ -1,0 +1,14 @@
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/bin/Debug/net8.0/TaskApp
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/bin/Debug/net8.0/TaskApp.deps.json
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/bin/Debug/net8.0/TaskApp.runtimeconfig.json
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/bin/Debug/net8.0/TaskApp.dll
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/bin/Debug/net8.0/TaskApp.pdb
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/TaskApp.AssemblyInfoInputs.cache
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/TaskApp.AssemblyInfo.cs
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/TaskApp.csproj.CoreCompileInputs.cache
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/TaskApp.dll
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/refint/TaskApp.dll
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/TaskApp.pdb
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/TaskApp.genruntimeconfig.cache
+/Users/StandardUser/Library/Mobile Documents/com~apple~CloudDocs/iCloudFolder/develop/C#/TaskApp/obj/Debug/net8.0/ref/TaskApp.dll
